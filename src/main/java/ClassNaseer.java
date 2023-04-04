@@ -1,7 +1,7 @@
 
 public class ClassNaseer {
 
-	public void naseer() {
+	public static void main(String[] args) {
 		System.out.println("Naseer");
 	}
 }
