@@ -1,6 +1,7 @@
 
 public class ClassNaseer {
-public static void main(String[] args) {
-	System.out.println("Class Naseer");
-}
+
+	public void naseer() {
+		System.out.println("Naseer");
+	}
 }
